@@ -22,3 +22,14 @@ Wrapper Class 의 장점
 * null 처리에 용의
 * ArrayList 등 객체만 핸들링하는 기능을 사용하기 위해
 
+```java
+Integer[] dataList = new Integer[10];
+data_list[0] = 1
+```
+
+```java
+Integer dataList01[] = {1,2,3,4,5};
+Integer[] dataList02 = {2,3,4,5,6};
+```
+
+
