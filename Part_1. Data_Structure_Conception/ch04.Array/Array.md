@@ -38,6 +38,13 @@ Integer[] dataList02 = {2,3,4,5,6};
 * ArrayList<Integer> list003 = new ArrayList<>();
 
 * List는 인터페이스고, ArrayList는 클래스
-    * 클래스는 크게 일반 클래스와 클래스 내의 '추상 메서드가'가 하나 이상 있거나, abstract로 정의 된 추상 클래스로 나뉨
+    * 클래스는 일반 클래스와 클래스 내의 '추상 메서드'가 하나 이상 있거나, abstract로 정의 된 추상 클래스로 나뉨
     * 인터페이스는 모든 메서드가 추상 메서드인 경우를 의미하며, 인터페이스를 상속받는 클래스는 인터페이스에서 정의된 추상 메서드를 모두 구현 해야함 (__따라서 다양한 클래스를 상속받는 특정 인터페이스는 결국 동일한 메스드를 제공함__)
+
+    ```java
+    List<Integer> list001 = new ArrayList<Integer>();
+    // Left-hand가 Interface일 경우 가능
+    // Left-hand가 Class 일 경우 불가능 새로 변수를 선언해야함
+    list001 = new LinkedList<Integer>(); 
+    ```
     * ArrayList 가 아니라, List로 선언된 변수는 다음과 같이 필요에 따라 다른 리스트 클래스를 쓸 수 있는 **구현상의 유연성**을 제공함
