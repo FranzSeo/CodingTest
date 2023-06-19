@@ -5,6 +5,8 @@
 * 같은 종류의 데이터를 효율적으로 관리하기 쉬움
 * 같은 종류의 데이터를 순차적으로 저장
 
+
+
 <hr/>
 
 * 장점
@@ -48,3 +50,8 @@ Integer[] dataList02 = {2,3,4,5,6};
     list001 = new LinkedList<Integer>(); 
     ```
     * ArrayList 가 아니라, List로 선언된 변수는 다음과 같이 필요에 따라 다른 리스트 클래스를 쓸 수 있는 **구현상의 유연성**을 제공함
+
+
+
+    </hr>
+    https://www.nextree.co.kr/p6506/
