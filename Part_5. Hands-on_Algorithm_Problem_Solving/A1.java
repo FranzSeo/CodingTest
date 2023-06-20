@@ -9,8 +9,8 @@ public class A1{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        n = sc.nextInt();
-        m = sc.nextInt();
+        n = scan.nextInt();
+        m = scan.nextInt();
 
         // n개의 배열
         for(int i = 1; i < n; i++){
@@ -20,9 +20,9 @@ public class A1{
         // m개 만큼의 명령어 처리
         for(int i = 1; i <= n; i++){
             int command, from, to;
-            command = sc.nextInt();
-            from = sc.nextInt();
-            to = sc.nextInt();
+            command = scan.nextInt();
+            from = scan.nextInt();
+            to = scan.nextInt();
             ballSwitch(command, from, to);
         }
     }
