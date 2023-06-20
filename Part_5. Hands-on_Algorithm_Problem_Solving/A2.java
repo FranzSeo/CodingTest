@@ -10,9 +10,12 @@ public class A2 {
         scan = new Scanner(System.in);
 
         n = scan.nextInt();
+        long answer = 0;
 
     }
-
+    if(answer == 1) System.out.println(-1);
+    else System.out.println(answer);
+    
     // 입력 받을 수열 A
     
 }
