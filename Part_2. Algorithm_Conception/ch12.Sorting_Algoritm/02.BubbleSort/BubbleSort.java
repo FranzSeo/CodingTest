@@ -30,7 +30,7 @@ public class BubbleSort {
     //Bubble Sort
     public List<Integer> dataList;
     
-    public List<Integer> bubbleSort(ArrayList<Integer> dataList){
+    public ArrayList<Integer> bubbleSort(ArrayList<Integer> dataList){
         int endpoint = dataList.size() - 1;
         for(int i = endpoint; i > 0; i--){
             boolean swapped = false;
