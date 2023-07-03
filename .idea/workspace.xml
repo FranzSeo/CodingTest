@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,14 +42,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +68,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687944111582</updated>
-      <workItem from="1687944114412" duration="318000" />
+      <workItem from="1687944114412" duration="415000" />
+      <workItem from="1688350489318" duration="3208000" />
+      <workItem from="1688356714248" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -54,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687944383846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1687944459684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687944459684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
