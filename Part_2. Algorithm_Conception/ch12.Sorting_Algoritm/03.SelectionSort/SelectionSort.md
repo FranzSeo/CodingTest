@@ -8,3 +8,4 @@
     * 셋중 가장 작은 숫자를 앞에 놓고 다시 두수를 비교
     * dataList[0] > dataList[i] 라면 선택된 리스트의 i번째 숫자를 0과 교환
     * dataList[1] ... dataList[n]까지 교환
+

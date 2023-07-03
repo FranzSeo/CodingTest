@@ -17,6 +17,7 @@ public class SelectionSort {
         int minCur;
         // 몇번째 배열인지 순회
         for (int stand = 0; stand < dataList.size() - 1; stand++) {
+            // 커서와 현재 위치 비교
             minCur = stand;
             for (int index = stand + 1; index < dataList.size(); index++) {
                 if (dataList.get(minCur) > dataList.get(index)) {

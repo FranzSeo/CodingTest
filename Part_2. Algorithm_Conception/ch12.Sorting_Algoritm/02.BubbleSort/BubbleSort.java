@@ -1,17 +1,5 @@
 import java.util.*;
-
 public class BubbleSort {
-    public static void main(String[] args) {
-        ArrayList<Integer> testData = new ArrayList<Integer>();
-        for (int i = 0; i < 50; i++) {
-            testData.add((int) (Math.random() * 100));
-        }
-        BubbleSort bubbleSort = new BubbleSort();
-        ArrayList<Integer> sortedData = bubbleSort.sortList(testData);
-        for (int i = 0; i < sortedData.size(); i++) {
-            System.out.print(sortedData.get(i) + " ");
-        }
-    }
     public ArrayList<Integer> sortList(ArrayList<Integer> dataList) {
         // 반복되는 횟수
         for (int index01 = 0; index01 < dataList.size() - 1; index01++) {
@@ -29,5 +17,14 @@ public class BubbleSort {
             }
         }
         return dataList;
+    }
+
+    public static void main(String[] args) {
+        ArrayList<Integer> testData = new ArrayList<Integer>();
+        for (int i = 0; i < 100; i++) {
+            testData.add((int)(Math.random() * 100));
+        }
+        BubbleSort bubbleSort = new BubbleSort();
+        ArrayList<Integer> sortedData = bubbleSort.sortList(testData);
     }
 }
