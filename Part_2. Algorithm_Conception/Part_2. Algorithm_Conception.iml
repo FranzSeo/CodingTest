@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/02.BubbleSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/03.SelectionSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/04.InsertionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch13.Recursive_Call/01.RecursiveCall" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
