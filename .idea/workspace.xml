@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230704-last">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/01.SpaceComplexity/Space_Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/02.BubbleSort/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/03.SelectionSort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/03.SelectionSort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/03.SelectionSort/SelectionSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/03.SelectionSort/SelectionSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/04.InsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/04.InsertionSort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algoritm/04.InsertionSort/InsertionSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/04.InsertionSort/InsertionSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort_01/MargeSort01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +86,7 @@
       <workItem from="1688350489318" duration="3208000" />
       <workItem from="1688356714248" duration="7988000" />
       <workItem from="1688430869727" duration="10998000" />
-      <workItem from="1688539429343" duration="6357000" />
+      <workItem from="1688539429343" duration="6847000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -146,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688452049225</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20230704-last">
+      <option name="closed" value="true" />
+      <created>1688547619112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688547619112</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
