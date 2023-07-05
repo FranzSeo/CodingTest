@@ -3,11 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/02.BubbleSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/03.SelectionSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algoritm/04.InsertionSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch13.Recursive_Call/01.RecursiveCall" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/02.BubbleSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/03.SelectionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/04.InsertionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/01.MergeSort_01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/02.MergeSort_02" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
