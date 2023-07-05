@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230704-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort_01/MargeSort01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort_01/MargeSort01.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort_01/MargeSort01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <workItem from="1688350489318" duration="3208000" />
       <workItem from="1688356714248" duration="7988000" />
       <workItem from="1688430869727" duration="10998000" />
-      <workItem from="1688539429343" duration="6847000" />
+      <workItem from="1688539429343" duration="7531000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -144,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688547619112</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20230704-last">
+      <option name="closed" value="true" />
+      <created>1688548932717</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688548932717</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
