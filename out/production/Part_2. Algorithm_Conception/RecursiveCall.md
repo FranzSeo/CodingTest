@@ -79,17 +79,21 @@ public class Main{
 ```
 
 ```java
-import java.util.ArrayList;
+public class Main  {
+   public int addList(ArrayList<Integer> dataList){
+      if ( dataList.size() <= 0){
+         return 0;
+      }
+      return dataList.get(0) +
+              this.addList(new ArrayList<Integer>(
+                      dataList.subList(1,dataList.size())));
+   }
 
-public class Factorial {
-   public int factorial(ArrayList<Integer> dataList){
-       if (dataList.size() <= 0){
-           return 0;
-       }
-       return dataList.get(0) + 
-               this.factorial(new ArrayList<Integer>(
-                               dataList.subList(1,dataList.size())));
+   public static void main(String[] args) {
+      Main a = new Main();
+      ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+      int result = a.addList(list);
+      System.out.println(result);
    }
 }
-
 ```

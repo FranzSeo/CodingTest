@@ -8,8 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/02.BubbleSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/03.SelectionSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/04.InsertionSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/01.MergeSort_01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/02.MergeSort_02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/01.MergeSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/02.QuickSort" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
