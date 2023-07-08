@@ -3,35 +3,39 @@ import java.util.*;
 public class QuickSort {
     public static void main(String[] args) {
         ArrayList<Integer> testData = new ArrayList<Integer>();
-        for (int i = 0; i < 25; i++) {
+        for (int i = 0; i < 100; i++) {
             testData.add((int) (Math.random() * 100));
         }
 
-        MergeSort obj = new MergeSort();
+        QuickSort obj = new QuickSort();
+        ArrayList<Integer> result = obj.sort(testData);
+        System.out.println(result);
     }
-    /*
+
     // 피벗을 기준으로 좌우로 나누는 함수
-    public void splitFunc(ArrayList<Integer> dataList){
-        if (dataList.size() <= 1){
-            return ;
+    public ArrayList<Integer> sort(ArrayList<Integer> dataList) {
+        if (dataList.size() <= 1) {
+            return dataList;
         }
         int pivot = dataList.get(0);
 
         ArrayList<Integer> leftArr = new ArrayList<Integer>();
         ArrayList<Integer> rightArr = new ArrayList<Integer>();
 
-        for (int i = 1; i < dataList.size(); i++){
-            if (dataList.get(i) > pivot){
+        for (int i = 1; i < dataList.size(); i++) {
+            if (dataList.get(i) > pivot) {
                 rightArr.add(dataList.get(i));
-            }else{
+            } else {
                 leftArr.add(dataList.get(i));
             }
         }
         ArrayList<Integer> mergedArr = new ArrayList<Integer>();
-        mergedArr.addAll(leftArr);
+        mergedArr.addAll(this.sort(leftArr));
         mergedArr.addAll(Arrays.asList(pivot));
-        mergedArr.addAll(rightArr);
+        mergedArr.addAll(this.sort(rightArr));
+
+        return mergedArr;
     }
-     */
+
 
 }

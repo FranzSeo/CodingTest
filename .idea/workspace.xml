@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230705-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MargeSort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch/SequentialSearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/GraphsAndDataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/Graphs_and_DataStructures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/Breadth_First_Search.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort_01/MargeSort01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.Recursive_Call/01.RecursiveCall/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.Recursive_Call/01.RecursiveCall/RecursiveCall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MargeSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MargeSort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MargeSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MargeSort.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="51c42a7f-5dbb-462b-b0d7-03a4e1546f9b" />
+        <option name="accountId" value="f1181291-e6ba-488b-a9eb-df438a627185" />
         <option name="url" value="https://github.com/FranzSeo/CodingTest.git" />
       </UrlAndAccount>
     </option>
@@ -50,6 +59,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RpPaE0rcKhTXenybZ6IpyXaltI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,6 +85,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\git\demo-sping-projects\CodingTest\Part_2. Algorithm_Conception" />
       <recent name="C:\Users\USER\git\CodingTest\Part_2. Algorithm_Conception\ch15.AdvenceSortAlgorithm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -89,8 +100,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="Part_2. Algorithm_Conception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
@@ -110,6 +129,7 @@
       <workItem from="1688539429343" duration="7763000" />
       <workItem from="1688607435720" duration="3593000" />
       <workItem from="1688619262556" duration="7428000" />
+      <workItem from="1688689783337" duration="14867000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/04.InsertionSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/01.MergeSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/02.QuickSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
