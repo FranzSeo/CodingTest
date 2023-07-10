@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230708-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSDFS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BreadthFirstSearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DFSSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch19.Greedy_Algorithm/01.Greedy_Algorithm/GreedyAlgorithm.md" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230710-last">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/GraphsAndDataStructures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/Breadth_First_Search.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DepthFirstSearch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/BinarySearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/BinarySearch.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +119,7 @@
       <workItem from="1688619262556" duration="7428000" />
       <workItem from="1688689783337" duration="14867000" />
       <workItem from="1688812623419" duration="140000" />
-      <workItem from="1688949301253" duration="19429000" />
+      <workItem from="1688949301253" duration="20251000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -219,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688812738566</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20230710-last">
+      <option name="closed" value="true" />
+      <created>1688981294703</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688981294703</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +229,7 @@
     <MESSAGE value="20230704-last" />
     <MESSAGE value="20230705-last" />
     <MESSAGE value="20230708-last" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230708-last" />
+    <MESSAGE value="20230710-last" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230710-last" />
   </component>
 </project>
