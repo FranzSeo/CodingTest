@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch19.Greedy_Algorithm/01.Greedy_Algorithm" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

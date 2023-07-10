@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230705-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch/SequentialSearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/GraphsAndDataStructures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/Graphs_and_DataStructures.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/Breadth_First_Search.md" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230708-last">
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSDFS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BreadthFirstSearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DFSSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch19.Greedy_Algorithm/01.Greedy_Algorithm/GreedyAlgorithm.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.Recursive_Call/01.RecursiveCall/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.Recursive_Call/01.RecursiveCall/RecursiveCall.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MargeSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/01.MergeSort/MargeSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch15.AdvenceSortAlgorithm/02.QuickSort/QuickSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MargeSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MargeSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures/GraphsAndDataStructures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/Breadth_First_Search.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DepthFirstSearch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/BinarySearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/BinarySearch.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,26 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/123/git/demo-sping-projects/CodingTest/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123\git\demo-sping-projects\CodingTest\Part_2. Algorithm_Conception\ch18.Graph_Search_Algorithm_Basic\01.Breadth_First_Search" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\123\git\demo-sping-projects\CodingTest\Part_2. Algorithm_Conception" />
       <recent name="C:\Users\USER\git\CodingTest\Part_2. Algorithm_Conception\ch15.AdvenceSortAlgorithm" />
@@ -109,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +128,8 @@
       <workItem from="1688607435720" duration="3593000" />
       <workItem from="1688619262556" duration="7428000" />
       <workItem from="1688689783337" duration="14867000" />
+      <workItem from="1688812623419" duration="140000" />
+      <workItem from="1688949301253" duration="19429000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -211,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688549202815</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20230708-last">
+      <option name="closed" value="true" />
+      <created>1688812738566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688812738566</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +230,7 @@
     <MESSAGE value="20230703-last" />
     <MESSAGE value="20230704-last" />
     <MESSAGE value="20230705-last" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230705-last" />
+    <MESSAGE value="20230708-last" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230708-last" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class BinarySearch {
     public static void main(String[] args) {
         ArrayList<Integer> testData = new ArrayList<Integer>();
@@ -13,26 +14,27 @@ public class BinarySearch {
         boolean result = obj.biSearch(testData, 30);
         System.out.println(result);
     }
-    public boolean biSearch(ArrayList<Integer> dataList, int searchItem){
-        if (dataList.size() == 0){
+
+    public boolean biSearch(ArrayList<Integer> dataList, int searchItem) {
+        if (dataList.size() == 0) {
             return false;
         }
-        if (dataList.size() == 1 && dataList.get(0) == searchItem){
+        if (dataList.size() == 1 && dataList.get(0) == searchItem) {
             return true;
         }
-        if (dataList.size() == 1 && dataList.get(0) != searchItem){
+        if (dataList.size() == 1 && dataList.get(0) != searchItem) {
             return false;
         }
 
         int middle = dataList.size() / 2;
 
-        if(searchItem == dataList.get(middle)){
+        if (searchItem == dataList.get(middle)) {
             return true;
-        }else{
-            if(searchItem < dataList.get(middle)){
-                return this.biSearch(new ArrayList<Integer>(dataList.subList(0, middle)),searchItem);
-            }else{
-                return this.biSearch(new ArrayList<Integer>(dataList.subList(middle, dataList.size())),searchItem);
+        } else {
+            if (searchItem < dataList.get(middle)) {
+                return this.biSearch(new ArrayList<Integer>(dataList.subList(0, middle)), searchItem);
+            } else {
+                return this.biSearch(new ArrayList<Integer>(dataList.subList(middle, dataList.size())), searchItem);
             }
         }
     }
