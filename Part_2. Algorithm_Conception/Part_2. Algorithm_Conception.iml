@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ch18.BasicGraphSearchAlgorithm/02.Depth_First_Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch19.GreedyAlgorithm/01.Greedy_Algorithm" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

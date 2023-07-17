@@ -4,35 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230710-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/DemoDijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/DijkstraPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/ShortPathProblem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/dijkstra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/testDemo.java" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230711-last">
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/Part_2. Algorithm_Conception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/01.SpaceComplexity/Space_Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/01.SpaceComplexity/Space_Complexity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/02.BubbleSort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/02.BubbleSort/BubbleSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/02.BubbleSort/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/02.BubbleSort/BubbleSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/03.SelectionSort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/03.SelectionSort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/03.SelectionSort/SelectionSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/03.SelectionSort/SelectionSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/04.InsertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/04.InsertionSort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.Sorting_Algorithm/04.InsertionSort/InsertionSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch12.SortingAlgorithm/04.InsertionSort/InsertionSort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.Recursive_Call/01.RecursiveCall/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch13.RecursiveCall/01.RecursiveCall/RecursiveCall.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch14.DynamicProgramingDivide&amp;Conquer/01.DynamicPrograming_DivideAndConquer/DynamicPrograming_Divide&amp;Conquer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch/SequentialSearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.SortingAlgorithmWarmingUp/01.SequentialSearch/SequentialSearch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.SortingAlgorithmWarmingUp/02.BinarySearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch/BinarySearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch16.SortingAlgorithmWarmingUp/02.BinarySearch/BinarySearch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSDFS.png" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.BasicGraphSearchAlgorithm/01.Breadth_First_Search/BFSDFS.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BFSSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.BasicGraphSearchAlgorithm/01.Breadth_First_Search/BFSSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search/BreadthFirstSearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.BasicGraphSearchAlgorithm/01.Breadth_First_Search/BreadthFirstSearch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DFSSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.BasicGraphSearchAlgorithm/02.Depth_First_Search/DFSSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search/DepthFirstSearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch18.BasicGraphSearchAlgorithm/02.Depth_First_Search/DepthFirstSearch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch19.Greedy_Algorithm/01.Greedy_Algorithm/GreedyAlgorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch19.GreedyAlgorithm/01.Greedy_Algorithm/GreedyAlgorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/GreedyAlgorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/GreedyAlgorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/DijkstraPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem/DijkstraPath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +126,8 @@
       <workItem from="1688689783337" duration="14867000" />
       <workItem from="1688812623419" duration="140000" />
       <workItem from="1688949301253" duration="20251000" />
+      <workItem from="1689124029887" duration="11000" />
+      <workItem from="1689556190929" duration="4444000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -246,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688981294703</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20230711-last">
+      <option name="closed" value="true" />
+      <created>1689065023406</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689065023406</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +246,7 @@
     <MESSAGE value="20230705-last" />
     <MESSAGE value="20230708-last" />
     <MESSAGE value="20230710-last" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230710-last" />
+    <MESSAGE value="20230711-last" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230711-last" />
   </component>
 </project>
