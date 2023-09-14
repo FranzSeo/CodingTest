@@ -3,19 +3,21 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ch13.Recursive_Call/01.RecursiveCall" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch14.DynamicPrograming_Divide&amp;Conquer/01.DynamicPrograming_DivideAndConquer" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/02.BubbleSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/03.SelectionSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch12.Sorting_Algorithm/04.InsertionSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/01.MergeSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15.AdvenceSortAlgorithm/02.QuickSort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/01.SequentialSearch" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch16.Sorting_Algorithm_Warming_Up/02.BinarySearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch17.Graphs&amp;DataStructures/01.Graphs_and_DataStructures" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch18.Graph_Search_Algorithm_Basic/02.Depth_First_Search" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch19.Greedy_Algorithm/01.Greedy_Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.SortingAlgorithm/02.BubbleSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.SortingAlgorithm/03.SelectionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12.SortingAlgorithm/04.InsertionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch13.RecursiveCall/01.RecursiveCall" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch14.DynamicProgramingDivide&amp;Conquer/01.DynamicPrograming_DivideAndConquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch16.SortingAlgorithmWarmingUp/01.SequentialSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch16.SortingAlgorithmWarmingUp/02.BinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch18.BasicGraphSearchAlgorithm/01.Breadth_First_Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch18.BasicGraphSearchAlgorithm/02.Depth_First_Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch19.GreedyAlgorithm/01.Greedy_Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch20.AdvenceSearchAlgorithm/01.ShortPathProblem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
