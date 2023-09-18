@@ -35,6 +35,7 @@ public class Main {
    * 일정한 패턴 존재
 
 ```java
+/*
 -- pseudo code -- 
         
 function(input) {
@@ -53,6 +54,7 @@ function(input) {
         return function(input -1);
     }
 }
+*/
 ```
 
 ### 4. 재귀 호출은 스택의 전형적인 예이다.
