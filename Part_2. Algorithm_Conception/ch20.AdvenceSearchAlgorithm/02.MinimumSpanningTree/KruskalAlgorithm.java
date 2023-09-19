@@ -24,6 +24,7 @@ public class KruskalAlgorithm {
         return this.parent.get(node);
     }
 
+
     private void union(String nodeV, String nodeU) {
         String root1 = find(nodeV);
         String root2 = find(nodeU);
