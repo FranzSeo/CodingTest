@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230710-last">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/KruskalAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/KruskalEdge.java" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230919-Good Morning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/GreedyAlgorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/GreedyAlgorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/RecursiveCall.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,28 +81,6 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
-      <module name="Part_2. Algorithm_Conception" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort" />
-      <module name="Part_2. Algorithm_Conception" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.QuickSort" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -128,7 +101,8 @@
       <workItem from="1688949301253" duration="19429000" />
       <workItem from="1695010816055" duration="1109000" />
       <workItem from="1695014134351" duration="970000" />
-      <workItem from="1695078686792" duration="322000" />
+      <workItem from="1695078686792" duration="2692000" />
+      <workItem from="1695082748426" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -218,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688812738566</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20230919-Good Morning">
+      <option name="closed" value="true" />
+      <created>1695079027997</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695079027997</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +212,7 @@
     <MESSAGE value="20230704-last" />
     <MESSAGE value="20230705-last" />
     <MESSAGE value="20230708-last" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230708-last" />
+    <MESSAGE value="20230919-Good Morning" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230919-Good Morning" />
   </component>
 </project>
