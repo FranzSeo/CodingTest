@@ -81,3 +81,25 @@
 * Kruskal's Algorithm 과 Prim's Algorithm의 차이
   * 탐욕 알고리즘을 기초로 하여 적용 ( 최소 비용을 선택하여, 결과적으로 최적의 솔루션을 찾음 )
   * Krukal's Algorithm은 가장 가중치가 작은 간선부터 선택하여 MST를 구함
+
+1. 시작 노드를 선정하고 간선에 가중치가 작은 쪽으로 노드를 연결 
+2. 연결된 간선에서 가장 작은 가중치를 가진 간선을 연결
+3. 계속 반복 하되 간선간의 순환을 만들지 않게 간선을 연결
+4. 
+
+```java
+public class Main{
+    public static void main(String[] args){
+        Main main = new Main();
+        main.func();
+    }
+    public void func(){
+        HashMap<String, ArrayList<PrimEdge>> graph = new HashMap<>();
+        graph.put("A", new ArrayList<PrimEdge>());
+        graph.put("B", new ArrayList<PrimEdge>());
+        System.out.println("Q: Does 'B' have any key? // A: " + graph.containsKey("B"));
+
+        graph.getOrDefault("C", new ArrayList<>());
+    }
+}
+```

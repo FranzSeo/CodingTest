@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230919-Good Morning">
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230919-Good Night">
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimEdge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" afterDir="false" />
     </list>
@@ -103,6 +105,12 @@
       <workItem from="1695014134351" duration="970000" />
       <workItem from="1695078686792" duration="2692000" />
       <workItem from="1695082748426" duration="7000" />
+      <workItem from="1695113728979" duration="381000" />
+      <workItem from="1695185116834" duration="300000" />
+      <workItem from="1695198625042" duration="209000" />
+      <workItem from="1695363764559" duration="617000" />
+      <workItem from="1695601278871" duration="4000" />
+      <workItem from="1695634451980" duration="4868000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -200,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695079027997</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20230919-Good Night">
+      <option name="closed" value="true" />
+      <created>1695114046425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695114046425</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20230919-Good Night">
+      <option name="closed" value="true" />
+      <created>1695114108144</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695114108144</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +237,7 @@
     <MESSAGE value="20230705-last" />
     <MESSAGE value="20230708-last" />
     <MESSAGE value="20230919-Good Morning" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230919-Good Morning" />
+    <MESSAGE value="20230919-Good Night" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230919-Good Night" />
   </component>
 </project>
