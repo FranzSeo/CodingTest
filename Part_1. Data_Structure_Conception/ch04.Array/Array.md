@@ -26,7 +26,7 @@ Wrapper Class 의 장점
 
 ```java
 Integer[] dataList = new Integer[10];
-data_list[0] = 1
+dataList[0] = 1
 ```
 
 ```java

@@ -82,6 +82,34 @@
   * 탐욕 알고리즘을 기초로 하여 적용 ( 최소 비용을 선택하여, 결과적으로 최적의 솔루션을 찾음 )
   * Krukal's Algorithm은 가장 가중치가 작은 간선부터 선택하여 MST를 구함
 
-1. 시작 노드를 선정하고 간선에 가중치가 작은 쪽으로 노드를 연결 
-2. 연결된 간선에서 가장 작은 가중치를 가진 간선을 연결
+1. '임의의' 시작 노드를 선정하고 간선에 가중치가 작은 쪽으로 노드를 연결 
+2. 다음 노드에서 연결될 수 있는 간선 중에서 가장 작은 가중치를 가진 간선을 연결
 3. 계속 반복 하되 간선간의 순환을 만들지 않게 간선을 연결
+   - 어떻게 구현 할까? -> 해당 간선에 연결된 인접 정점이 연결된 노드집합에 포함된다면 Skip
+4. 추출한 간선은 간선 리스트에서 제거
+5. 간선 리스트에 더 이상의 간선이 없을 때 까지 반복
+
+Tip
+- 간선 리스트에서 최소 가중치를 가지는 -> 최소힙 -> (Java) PriorityQueue 를 사용하여 구현 !!!
+- 찾는 키에 대한 값이 없을 때, 디폴트 반환
+```java
+graph.getOrDefault("Key", new ArrayList<>());
+```
+<br><br>
+
+```java
+public class Main{
+    public static void main(String[] args){
+        Main main = new Main();
+        main.func();
+    }
+    public void func(){
+        HashMap<String, ArrayList<PrimEdge>> graph = new HashMap<>();
+        graph.put("A", new ArrayList<PrimEdge>());
+        graph.put("B", new ArrayList<PrimEdge>());
+        System.out.println("Q: Does 'B' have any key? // A: " + graph.containsKey("B"));
+
+        graph.getOrDefault("C", new ArrayList<>());
+    }
+}
+```

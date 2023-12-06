@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230919-Good Night">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimEdge.java" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20230925-Good Night">
+      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/AdvancedPrimAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_1. Data_Structure_Conception/ch04.Array/Array.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_1. Data_Structure_Conception/ch04.Array/Array.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/PrimEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MinimumSpanningTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part_2. Algorithm_Conception/MinimumSpanningTree.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/123/git/demo-sping-projects/CodingTest/Part_2. Algorithm_Conception/ch18.Graph_Search_Algorithm_Basic/01.Breadth_First_Search&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/123/git/CodingTest&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -111,6 +114,16 @@
       <workItem from="1695363764559" duration="617000" />
       <workItem from="1695601278871" duration="4000" />
       <workItem from="1695634451980" duration="4868000" />
+      <workItem from="1695639427286" duration="27000" />
+      <workItem from="1695801354245" duration="677000" />
+      <workItem from="1697013362674" duration="359000" />
+      <workItem from="1697445473229" duration="1079000" />
+      <workItem from="1697542539502" duration="26000" />
+      <workItem from="1698727568967" duration="2000" />
+      <workItem from="1699922400478" duration="81000" />
+      <workItem from="1700459314184" duration="7000" />
+      <workItem from="1701825557990" duration="1249000" />
+      <workItem from="1701844879106" duration="7065000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -224,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695114108144</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20230925-Good Night">
+      <option name="closed" value="true" />
+      <created>1695639446547</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695639446547</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +259,7 @@
     <MESSAGE value="20230708-last" />
     <MESSAGE value="20230919-Good Morning" />
     <MESSAGE value="20230919-Good Night" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230919-Good Night" />
+    <MESSAGE value="20230925-Good Night" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230925-Good Night" />
   </component>
 </project>

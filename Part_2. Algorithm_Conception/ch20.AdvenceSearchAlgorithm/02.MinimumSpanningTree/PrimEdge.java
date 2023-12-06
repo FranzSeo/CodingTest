@@ -14,7 +14,7 @@ public class PrimEdge implements Comparable<PrimEdge>{
                 "weight=" + weight +
                 ", node1='" + node1 + '\'' +
                 ", node2='" + node2 + '\'' +
-                '}';
+                "}";
     }
     @Override
     public int compareTo(PrimEdge primEdge) {
