@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20231206-Good Night">
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/ImprovedPrimEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/ImprovedPrimPath.java" afterDir="false" />
+    <list default="true" id="fa898d47-2898-46bf-9d27-97e6cb861e5b" name="Changes" comment="20231211-Good Night">
+      <change afterPath="$PROJECT_DIR$/leetCode/A0101to0200/0101to0200__image/A0118__PascalTriangleAnimated2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/A0101to0200/A0118.Pascal'sTriangle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/new_year_gift75_2024/A01_TwoSum/A01_TwoSum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/new_year_gift75_2024/A01_TwoSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/new_year_gift75_2024/A02_BestTimeToSell/BestTimeToSell.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/new_year_gift75_2024/A02_BestTimeToSell/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/AdvancedPrimAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/ImprovedPrimAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part_2. Algorithm_Conception/ch20.AdvenceSearchAlgorithm/02.MinimumSpanningTree/MinimumSpanningTree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,43 +49,58 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2RpPaE0rcKhTXenybZ6IpyXaltI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/123/git/CodingTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/123/git/CodingTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\123\git\demo-sping-projects\CodingTest\Part_2. Algorithm_Conception\ch18.Graph_Search_Algorithm_Basic\01.Breadth_First_Search" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\git\CodingTest\leetCode\A0101to0200\0101to0200__image" />
+      <recent name="C:\Users\123\git\CodingTest\leetCode" />
       <recent name="C:\Users\123\git\demo-sping-projects\CodingTest\Part_2. Algorithm_Conception" />
       <recent name="C:\Users\USER\git\CodingTest\Part_2. Algorithm_Conception\ch15.AdvenceSortAlgorithm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-azul-1.8.0_392-f644763e9732-7f9aae63" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -124,6 +142,19 @@
       <workItem from="1701844879106" duration="7719000" />
       <workItem from="1702249975397" duration="2263000" />
       <workItem from="1702295443072" duration="2377000" />
+      <workItem from="1702298154769" duration="53000" />
+      <workItem from="1702364867511" duration="77000" />
+      <workItem from="1703071616998" duration="22000" />
+      <workItem from="1703135520986" duration="2000" />
+      <workItem from="1704183853433" duration="1794000" />
+      <workItem from="1704674294069" duration="480000" />
+      <workItem from="1704796232338" duration="2068000" />
+      <workItem from="1704874206347" duration="488000" />
+      <workItem from="1704874750023" duration="104000" />
+      <workItem from="1704874950996" duration="209000" />
+      <workItem from="1704875299495" duration="1757000" />
+      <workItem from="1704891309496" duration="210000" />
+      <workItem from="1705293808598" duration="8988000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -253,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701862089128</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="20231211-Good Night">
+      <option name="closed" value="true" />
+      <created>1702298182152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702298182152</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +308,7 @@
     <MESSAGE value="20230919-Good Night" />
     <MESSAGE value="20230925-Good Night" />
     <MESSAGE value="20231206-Good Night" />
-    <option name="LAST_COMMIT_MESSAGE" value="20231206-Good Night" />
+    <MESSAGE value="20231211-Good Night" />
+    <option name="LAST_COMMIT_MESSAGE" value="20231211-Good Night" />
   </component>
 </project>
